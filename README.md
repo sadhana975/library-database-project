@@ -10,7 +10,7 @@ This project demonstrates how to design a relational database for a library mana
 
 ## Files Included
 - library_schema.sql – SQL script to create the schema
-- er_diagram.mng – ER diagram for visual reference
+- er_diagram.mwb – ER diagram for visual reference
 - 
 ## Tables
 - Authors
