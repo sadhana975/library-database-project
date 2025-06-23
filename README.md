@@ -29,4 +29,4 @@ This project demonstrates how to design a relational database for a library mana
 3. Insert your data or use sample data
 
 ## Author
-Maheshwaram Sadhana
+Maheshwaram Sadhana.
