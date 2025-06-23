@@ -28,8 +28,5 @@ This project demonstrates how to design a relational database for a library mana
 2. Execute to create tables
 3. Insert your data or use sample data
 
-## Screenshot
-![ER Diagram](er_diagram.png)
-
 ## Author
 Maheshwaram Sadhana
