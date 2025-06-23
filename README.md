@@ -21,7 +21,7 @@ This project demonstrates how to design a relational database for a library mana
 
 ## Relationships
 - A book can have many authors (many-to-many)
-- A member can loan many books (one-to-many)
+- A member can loan many books (one-to-many).
 
 ## How to Run
 1. Open library_schema.sql in your SQL tool
